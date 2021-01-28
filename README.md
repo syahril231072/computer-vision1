@@ -128,12 +128,7 @@ This folder has 4 model class files that has methods to load model and perform i
 * Handle Different different lighting conditions
 * Increase Inference Speed
 
-## ✨Team:
-* [Bhadresh Savani](https://github.com/bhadreshpsavani)
-* [Pakeeza](https://github.com/Hotaru29)
-* [Erin Song](https://github.com/sagabanana)
-* [Richa](https://www.linkedin.com/in/richaphd/)
-* [Jose Mariscal](https://github.com/jgmarsm) 
+
 
 ## 🧱Road Map:
 - [x] Create end to end pipeline to extract eye gaze coordinates
