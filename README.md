@@ -2,7 +2,7 @@
 The goal of the Eye Exercise Application is to help increase effectiveness of eye exercise. We detect eye gaze of a user using computer vision and pretrained machine learning models. We check it with eye gaze coordianates of instructor and show user a live score of exercise effectiveness. We also want the exercise assistant to be voice enabled to instruct and motivate users for exercise.
 
 ## How we build eye gaze vectors:
-![demoVideo](/project/Bhadresh%20Savani/bin/gaze_detection.gif)
+![demoVideo](gaze_detection.gif)
 
 We have used four pretrained machine learning models from OpenVINO™ toolkit, short for Open Visual Inference and Neural network Optimization toolkit:
 
